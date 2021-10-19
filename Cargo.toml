@@ -1,0 +1,12 @@
+[package]
+name = "ldn_mitm_rs"
+version = "0.1.0"
+authors = ["spacemeowx2"]
+edition = "2018"
+
+[dependencies]
+nx = { git = "https://github.com/aarch64-switch-rs/nx", rev = "34689b93a6233097f38ca7999bb2dae4b873f791" }
+paste = "1.0"
+
+[package.metadata.nx.nsp]
+npdm = "npdm.json"
