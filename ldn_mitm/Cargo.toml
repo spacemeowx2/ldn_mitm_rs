@@ -5,7 +5,9 @@ authors = ["spacemeowx2"]
 edition = "2018"
 
 [dependencies]
+# nx = { path = "../../nx" }
 nx = { git = "https://github.com/spacemeowx2/nx", rev = "bb0dbf11d5ca4332b9a1322597a3b78808e353f2" }
+# nx = { git = "https://github.com/aarch64-switch-rs/nx" }
 paste = "1.0"
 
 [package.metadata.nx.nsp]
