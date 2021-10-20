@@ -1,5 +1,5 @@
 [toolchain]
 channel = "nightly-2021-10-18"
-components = [ "rust-src" ]
-targets = [ "aarch64-none-elf" ]
+components = ["rust-src"]
+targets = ["aarch64-unknown-none"]
 profile = "minimal"
