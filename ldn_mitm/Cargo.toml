@@ -1,5 +1,5 @@
 [package]
-name = "ldn_mitm_rs"
+name = "ldn_mitm"
 version = "0.1.0"
 authors = ["spacemeowx2"]
 edition = "2018"

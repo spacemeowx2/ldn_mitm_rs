@@ -1,5 +1,5 @@
 [toolchain]
 channel = "nightly-2021-10-18"
-components = ["rust-src"]
+components = ["rust-src", "clippy"]
 targets = ["aarch64-unknown-none"]
 profile = "minimal"
