@@ -6,8 +6,8 @@ edition = "2018"
 
 [dependencies]
 # nx = { path = "../../nx" }
-nx = { git = "https://github.com/spacemeowx2/nx", rev = "bb0dbf11d5ca4332b9a1322597a3b78808e353f2" }
-# nx = { git = "https://github.com/aarch64-switch-rs/nx" }
+# nx = { git = "https://github.com/spacemeowx2/nx", rev = "bb0dbf11d5ca4332b9a1322597a3b78808e353f2" }
+nx = { git = "https://github.com/aarch64-switch-rs/nx", rev = "8f8de1a23e93f9e3574a57de1b1447673ddafcdd" }
 paste = "1.0"
 
 [package.metadata.nx.nsp]
